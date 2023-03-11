@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5fb4ac1-ee8f-4a3f-a9c0-ad70f0f6048b" name="Changes" comment="Creat Term Project and add JavaFX dependency">
+    <list default="true" id="b5fb4ac1-ee8f-4a3f-a9c0-ad70f0f6048b" name="Changes" comment="Fix JavaFX dependency to work now">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comp2522TermProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Comp2522TermProject.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +29,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Program Files/Java/javafx-sdk-19.0.2.1/lib",
     "node.js.detected.package.eslint": "true",
@@ -49,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678563664338</updated>
-      <workItem from="1678563665479" duration="825000" />
+      <workItem from="1678563665479" duration="1149000" />
     </task>
     <task id="LOCAL-00001" summary="Creat Term Project and add JavaFX dependency">
       <created>1678563794686</created>
@@ -58,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678563794686</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fix JavaFX dependency to work now">
+      <created>1678564787857</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678564787857</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,6 +74,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creat Term Project and add JavaFX dependency" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creat Term Project and add JavaFX dependency" />
+    <MESSAGE value="Fix JavaFX dependency to work now" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix JavaFX dependency to work now" />
   </component>
 </project>
